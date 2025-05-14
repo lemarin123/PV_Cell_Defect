@@ -7,7 +7,8 @@
 
 
 # Run it on Colab 
-https://colab.research.google.com/github.com/lemarin123/PV_Cell_Defect/blob/main/PV_AutoEncoder.ipynb
+https://colab.research.google.com/github/lemarin123/PV_Cell_Defect/blob/main/PV_AutoEncoder.ipynb
+
 
 
 ## Getting Started
