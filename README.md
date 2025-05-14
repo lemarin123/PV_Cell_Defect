@@ -7,7 +7,6 @@
 ## Getting Started
 ### Requirements
 - Python >3
-- Torch 2.4.1+cu212 
-- torchvision 0.19.1+cu121
-- NumPy 1.26
-- tqdm
+- Tensorflow
+- NumPy 
+- 
